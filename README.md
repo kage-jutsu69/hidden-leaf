@@ -1,2 +1,2 @@
 # hidden-leaf
-test repo for developing python, lua, and cpp scripts
+test repo for developing cpp, lua, and python scripts
